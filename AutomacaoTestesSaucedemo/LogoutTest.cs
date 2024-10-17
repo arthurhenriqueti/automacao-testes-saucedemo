@@ -30,6 +30,8 @@ namespace AutomacaoTestesSaucedemo
             String textoAtual = driver.FindElement(By.ClassName("login_logo")).Text;
             String textoEsperado = "Swag Labs";
 
+            Assert.AreEqual(textoEsperado, textoAtual, "O texto atual não corresponde com o texto esperado!");
+
             Thread.Sleep(1000);
         }
     }
