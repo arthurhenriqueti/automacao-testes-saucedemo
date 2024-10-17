@@ -20,6 +20,7 @@ namespace AutomacaoTestesSaucedemo
         [TearDown]
         public void TearDown()
         {
+            driver.Close();
             driver.Quit();
         }
     }
