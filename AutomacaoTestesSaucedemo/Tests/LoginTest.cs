@@ -1,8 +1,9 @@
-﻿using OpenQA.Selenium;
+﻿using AutomacaoTestesSaucedemo.Core;
+using OpenQA.Selenium;
 using OpenQA.Selenium.Support.UI;
 using System;
 
-namespace AutomacaoTestesSaucedemo
+namespace AutomacaoTestesSaucedemo.Tests
 {
     public class LoginTest : Begin
     {
@@ -15,8 +16,8 @@ namespace AutomacaoTestesSaucedemo
 
             Thread.Sleep(1000);
 
-            String textoAtual = driver.FindElement(By.ClassName("app_logo")).Text;
-            String textoEsperado = "Swag Labs";
+            string textoAtual = driver.FindElement(By.ClassName("app_logo")).Text;
+            string textoEsperado = "Swag Labs";
 
             Assert.AreEqual(textoEsperado, textoAtual, "O texto atual não corresponde com o texto esperado!");
         }
@@ -30,8 +31,8 @@ namespace AutomacaoTestesSaucedemo
 
             Thread.Sleep(1000);
 
-            String textoAtual = driver.FindElement(By.TagName("h3")).Text;
-            String textoEsperado = "Epic sadface: Username and password do not match any user in this service";
+            string textoAtual = driver.FindElement(By.TagName("h3")).Text;
+            string textoEsperado = "Epic sadface: Username and password do not match any user in this service";
 
             Assert.AreEqual(textoEsperado, textoAtual, "O texto atual não corresponde com o texto esperado!");
         }
@@ -45,8 +46,8 @@ namespace AutomacaoTestesSaucedemo
 
             Thread.Sleep(1000);
 
-            String textoAtual = driver.FindElement(By.TagName("h3")).Text;
-            String textoEsperado = "Epic sadface: Username and password do not match any user in this service";
+            string textoAtual = driver.FindElement(By.TagName("h3")).Text;
+            string textoEsperado = "Epic sadface: Username and password do not match any user in this service";
 
             Assert.AreEqual(textoEsperado, textoAtual, "O texto atual não corresponde com o texto esperado!");
         }

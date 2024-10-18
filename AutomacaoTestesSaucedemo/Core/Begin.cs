@@ -2,7 +2,7 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using System;
 
-namespace AutomacaoTestesSaucedemo
+namespace AutomacaoTestesSaucedemo.Core
 {
     public class Begin
     {

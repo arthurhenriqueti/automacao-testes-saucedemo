@@ -1,7 +1,8 @@
+using AutomacaoTestesSaucedemo.Core;
 using OpenQA.Selenium;
 using System;
 
-namespace AutomacaoTestesSaucedemo
+namespace AutomacaoTestesSaucedemo.Tests
 {
     public class LogoutTest : Begin
     {
@@ -14,8 +15,8 @@ namespace AutomacaoTestesSaucedemo
 
             Thread.Sleep(1000);
 
-            String textoAtualLogin = driver.FindElement(By.ClassName("app_logo")).Text;
-            String textoEsperadoLogin = "Swag Labs";
+            string textoAtualLogin = driver.FindElement(By.ClassName("app_logo")).Text;
+            string textoEsperadoLogin = "Swag Labs";
 
             Assert.AreEqual(textoEsperadoLogin, textoAtualLogin, "O texto atual não corresponde com o texto esperado!");
 
@@ -27,8 +28,8 @@ namespace AutomacaoTestesSaucedemo
 
             driver.FindElement(By.Id("logout_sidebar_link")).Click();
 
-            String textoAtual = driver.FindElement(By.ClassName("login_logo")).Text;
-            String textoEsperado = "Swag Labs";
+            string textoAtual = driver.FindElement(By.ClassName("login_logo")).Text;
+            string textoEsperado = "Swag Labs";
 
             Assert.AreEqual(textoEsperado, textoAtual, "O texto atual não corresponde com o texto esperado!");
 

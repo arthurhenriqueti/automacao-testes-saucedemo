@@ -1,7 +1,8 @@
-﻿using OpenQA.Selenium;
+﻿using AutomacaoTestesSaucedemo.Core;
+using OpenQA.Selenium;
 using System;
 
-namespace AutomacaoTestesSaucedemo
+namespace AutomacaoTestesSaucedemo.Tests
 {
     public class CarrinhoTest : Begin
     {
@@ -14,8 +15,8 @@ namespace AutomacaoTestesSaucedemo
 
             Thread.Sleep(1000);
 
-            String textoAtualLogin = driver.FindElement(By.ClassName("app_logo")).Text;
-            String textoEsperadoLogin = "Swag Labs";
+            string textoAtualLogin = driver.FindElement(By.ClassName("app_logo")).Text;
+            string textoEsperadoLogin = "Swag Labs";
 
             Assert.AreEqual(textoEsperadoLogin, textoAtualLogin, "O texto atual não corresponde com o texto esperado!");
 
@@ -24,8 +25,8 @@ namespace AutomacaoTestesSaucedemo
 
             Thread.Sleep(1000);
 
-            String textoAtual = driver.FindElement(By.ClassName("inventory_item_name")).Text;
-            String textoEsperado = "Sauce Labs Backpack";
+            string textoAtual = driver.FindElement(By.ClassName("inventory_item_name")).Text;
+            string textoEsperado = "Sauce Labs Backpack";
 
             Thread.Sleep(1000);
 
@@ -41,8 +42,8 @@ namespace AutomacaoTestesSaucedemo
 
             Thread.Sleep(1000);
 
-            String textoAtualLogin = driver.FindElement(By.ClassName("app_logo")).Text;
-            String textoEsperadoLogin = "Swag Labs";
+            string textoAtualLogin = driver.FindElement(By.ClassName("app_logo")).Text;
+            string textoEsperadoLogin = "Swag Labs";
 
             Assert.AreEqual(textoEsperadoLogin, textoAtualLogin, "O texto atual não corresponde com o texto esperado!");
 
@@ -51,8 +52,8 @@ namespace AutomacaoTestesSaucedemo
 
             Thread.Sleep(1000);
 
-            String textoAtualAdd = driver.FindElement(By.ClassName("inventory_item_name")).Text;
-            String textoEsperadoAdd = "Sauce Labs Backpack";
+            string textoAtualAdd = driver.FindElement(By.ClassName("inventory_item_name")).Text;
+            string textoEsperadoAdd = "Sauce Labs Backpack";
 
             Assert.AreEqual(textoEsperadoAdd, textoAtualAdd, "O texto atual não corresponde com o texto esperado!");
 
@@ -60,8 +61,8 @@ namespace AutomacaoTestesSaucedemo
 
             driver.FindElement(By.Id("remove-sauce-labs-backpack")).Click();
 
-            String textoAtual = driver.FindElement(By.ClassName("cart_desc_label")).Text;
-            String textoEsperado = "Description";
+            string textoAtual = driver.FindElement(By.ClassName("cart_desc_label")).Text;
+            string textoEsperado = "Description";
 
             Thread.Sleep(1000);
 
@@ -77,8 +78,8 @@ namespace AutomacaoTestesSaucedemo
 
             Thread.Sleep(1000);
 
-            String textoAtualLogin = driver.FindElement(By.ClassName("app_logo")).Text;
-            String textoEsperadoLogin = "Swag Labs";
+            string textoAtualLogin = driver.FindElement(By.ClassName("app_logo")).Text;
+            string textoEsperadoLogin = "Swag Labs";
 
             Assert.AreEqual(textoEsperadoLogin, textoAtualLogin, "O texto atual não corresponde com o texto esperado!");
 
@@ -87,8 +88,8 @@ namespace AutomacaoTestesSaucedemo
 
             Thread.Sleep(1000);
 
-            String textoAtualFinalizar = driver.FindElement(By.ClassName("inventory_item_name")).Text;
-            String textoEsperadoFinalizar = "Sauce Labs Backpack";
+            string textoAtualFinalizar = driver.FindElement(By.ClassName("inventory_item_name")).Text;
+            string textoEsperadoFinalizar = "Sauce Labs Backpack";
 
             Thread.Sleep(1000);
 
@@ -114,8 +115,8 @@ namespace AutomacaoTestesSaucedemo
 
             Thread.Sleep(1000);
 
-            String textoAtual = driver.FindElement(By.ClassName("complete-header")).Text;
-            String textoEsperado = "Thank you for your order!";
+            string textoAtual = driver.FindElement(By.ClassName("complete-header")).Text;
+            string textoEsperado = "Thank you for your order!";
 
             Thread.Sleep(1000);
         }

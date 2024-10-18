@@ -1,7 +1,8 @@
+using AutomacaoTestesSaucedemo.Core;
 using OpenQA.Selenium;
 using System;
 
-namespace AutomacaoTestesSaucedemo
+namespace AutomacaoTestesSaucedemo.Tests
 {
     public class OrdenacaoProdutosTest : Begin
     {
@@ -14,8 +15,8 @@ namespace AutomacaoTestesSaucedemo
 
             Thread.Sleep(1000);
 
-            String textoAtualLogin = driver.FindElement(By.ClassName("app_logo")).Text;
-            String textoEsperadoLogin = "Swag Labs";
+            string textoAtualLogin = driver.FindElement(By.ClassName("app_logo")).Text;
+            string textoEsperadoLogin = "Swag Labs";
 
             Thread.Sleep(1000);
 
@@ -27,8 +28,8 @@ namespace AutomacaoTestesSaucedemo
 
             Thread.Sleep(1000);
 
-            String textoAtual = driver.FindElement(By.ClassName("inventory_item_name")).Text;
-            String textoEsperado = "Sauce Labs Onesie";
+            string textoAtual = driver.FindElement(By.ClassName("inventory_item_name")).Text;
+            string textoEsperado = "Sauce Labs Onesie";
 
             Assert.AreEqual(textoEsperado, textoAtual, "O texto atual não corresponde com o texto esperado!");
 
@@ -44,8 +45,8 @@ namespace AutomacaoTestesSaucedemo
 
             Thread.Sleep(1000);
 
-            String textoAtualLogin = driver.FindElement(By.ClassName("app_logo")).Text;
-            String textoEsperadoLogin = "Swag Labs";
+            string textoAtualLogin = driver.FindElement(By.ClassName("app_logo")).Text;
+            string textoEsperadoLogin = "Swag Labs";
 
             Thread.Sleep(1000);
 
@@ -57,8 +58,8 @@ namespace AutomacaoTestesSaucedemo
 
             Thread.Sleep(1000);
 
-            String textoAtual = driver.FindElement(By.ClassName("inventory_item_name")).Text;
-            String textoEsperado = "Sauce Labs Fleece Jacket";
+            string textoAtual = driver.FindElement(By.ClassName("inventory_item_name")).Text;
+            string textoEsperado = "Sauce Labs Fleece Jacket";
 
             Assert.AreEqual(textoEsperado, textoAtual, "O texto atual não corresponde com o texto esperado!");
 
@@ -74,8 +75,8 @@ namespace AutomacaoTestesSaucedemo
 
             Thread.Sleep(1000);
 
-            String textoAtualLogin = driver.FindElement(By.ClassName("app_logo")).Text;
-            String textoEsperadoLogin = "Swag Labs";
+            string textoAtualLogin = driver.FindElement(By.ClassName("app_logo")).Text;
+            string textoEsperadoLogin = "Swag Labs";
 
             Thread.Sleep(1000);
 
@@ -87,8 +88,8 @@ namespace AutomacaoTestesSaucedemo
 
             Thread.Sleep(1000);
 
-            String textoAtual = driver.FindElement(By.ClassName("inventory_item_name")).Text;
-            String textoEsperado = "Sauce Labs Backpack";
+            string textoAtual = driver.FindElement(By.ClassName("inventory_item_name")).Text;
+            string textoEsperado = "Sauce Labs Backpack";
 
             Assert.AreEqual(textoEsperado, textoAtual, "O texto atual não corresponde com o texto esperado!");
 
@@ -104,8 +105,8 @@ namespace AutomacaoTestesSaucedemo
 
             Thread.Sleep(1000);
 
-            String textoAtualLogin = driver.FindElement(By.ClassName("app_logo")).Text;
-            String textoEsperadoLogin = "Swag Labs";
+            string textoAtualLogin = driver.FindElement(By.ClassName("app_logo")).Text;
+            string textoEsperadoLogin = "Swag Labs";
 
             Thread.Sleep(1000);
 
@@ -117,8 +118,8 @@ namespace AutomacaoTestesSaucedemo
 
             Thread.Sleep(1000);
 
-            String textoAtual = driver.FindElement(By.ClassName("inventory_item_name")).Text;
-            String textoEsperado = "Test.allTheThings() T-Shirt (Red)";
+            string textoAtual = driver.FindElement(By.ClassName("inventory_item_name")).Text;
+            string textoEsperado = "Test.allTheThings() T-Shirt (Red)";
 
             Assert.AreEqual(textoEsperado, textoAtual, "O texto atual não corresponde com o texto esperado!");
 
