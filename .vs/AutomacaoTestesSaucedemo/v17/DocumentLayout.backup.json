@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "D:\\dev\\automacao-testes-saucedemo\\AutomacaoTestesSaucedemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{44C9308A-E905-4E7F-AB91-C11B7B7E3562}|AutomacaoTestesSaucedemo\\AutomacaoTestesSaucedemo.csproj|d:\\dev\\automacao-testes-saucedemo\\automacaotestessaucedemo\\automacaotestessaucedemo\\begin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44C9308A-E905-4E7F-AB91-C11B7B7E3562}|AutomacaoTestesSaucedemo\\AutomacaoTestesSaucedemo.csproj|solutionrelative:automacaotestessaucedemo\\begin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44C9308A-E905-4E7F-AB91-C11B7B7E3562}|AutomacaoTestesSaucedemo\\AutomacaoTestesSaucedemo.csproj|d:\\dev\\automacao-testes-saucedemo\\automacaotestessaucedemo\\automacaotestessaucedemo\\tests\\ordenacaoprodutostest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C9308A-E905-4E7F-AB91-C11B7B7E3562}|AutomacaoTestesSaucedemo\\AutomacaoTestesSaucedemo.csproj|solutionrelative:automacaotestessaucedemo\\tests\\ordenacaoprodutostest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44C9308A-E905-4E7F-AB91-C11B7B7E3562}|AutomacaoTestesSaucedemo\\AutomacaoTestesSaucedemo.csproj|d:\\dev\\automacao-testes-saucedemo\\automacaotestessaucedemo\\automacaotestessaucedemo\\ordenacaoprodutostest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44C9308A-E905-4E7F-AB91-C11B7B7E3562}|AutomacaoTestesSaucedemo\\AutomacaoTestesSaucedemo.csproj|solutionrelative:automacaotestessaucedemo\\ordenacaoprodutostest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44C9308A-E905-4E7F-AB91-C11B7B7E3562}|AutomacaoTestesSaucedemo\\AutomacaoTestesSaucedemo.csproj|d:\\dev\\automacao-testes-saucedemo\\automacaotestessaucedemo\\automacaotestessaucedemo\\pages\\ordenacaoprodutospage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C9308A-E905-4E7F-AB91-C11B7B7E3562}|AutomacaoTestesSaucedemo\\AutomacaoTestesSaucedemo.csproj|solutionrelative:automacaotestessaucedemo\\pages\\ordenacaoprodutospage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44C9308A-E905-4E7F-AB91-C11B7B7E3562}|AutomacaoTestesSaucedemo\\AutomacaoTestesSaucedemo.csproj|d:\\dev\\automacao-testes-saucedemo\\automacaotestessaucedemo\\automacaotestessaucedemo\\logouttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44C9308A-E905-4E7F-AB91-C11B7B7E3562}|AutomacaoTestesSaucedemo\\AutomacaoTestesSaucedemo.csproj|solutionrelative:automacaotestessaucedemo\\logouttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44C9308A-E905-4E7F-AB91-C11B7B7E3562}|AutomacaoTestesSaucedemo\\AutomacaoTestesSaucedemo.csproj|d:\\dev\\automacao-testes-saucedemo\\automacaotestessaucedemo\\automacaotestessaucedemo\\tests\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C9308A-E905-4E7F-AB91-C11B7B7E3562}|AutomacaoTestesSaucedemo\\AutomacaoTestesSaucedemo.csproj|solutionrelative:automacaotestessaucedemo\\tests\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44C9308A-E905-4E7F-AB91-C11B7B7E3562}|AutomacaoTestesSaucedemo\\AutomacaoTestesSaucedemo.csproj|d:\\dev\\automacao-testes-saucedemo\\automacaotestessaucedemo\\automacaotestessaucedemo\\carrinhotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44C9308A-E905-4E7F-AB91-C11B7B7E3562}|AutomacaoTestesSaucedemo\\AutomacaoTestesSaucedemo.csproj|solutionrelative:automacaotestessaucedemo\\carrinhotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44C9308A-E905-4E7F-AB91-C11B7B7E3562}|AutomacaoTestesSaucedemo\\AutomacaoTestesSaucedemo.csproj|d:\\dev\\automacao-testes-saucedemo\\automacaotestessaucedemo\\automacaotestessaucedemo\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C9308A-E905-4E7F-AB91-C11B7B7E3562}|AutomacaoTestesSaucedemo\\AutomacaoTestesSaucedemo.csproj|solutionrelative:automacaotestessaucedemo\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44C9308A-E905-4E7F-AB91-C11B7B7E3562}|AutomacaoTestesSaucedemo\\AutomacaoTestesSaucedemo.csproj|d:\\dev\\automacao-testes-saucedemo\\automacaotestessaucedemo\\automacaotestessaucedemo\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44C9308A-E905-4E7F-AB91-C11B7B7E3562}|AutomacaoTestesSaucedemo\\AutomacaoTestesSaucedemo.csproj|solutionrelative:automacaotestessaucedemo\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44C9308A-E905-4E7F-AB91-C11B7B7E3562}|AutomacaoTestesSaucedemo\\AutomacaoTestesSaucedemo.csproj|d:\\dev\\automacao-testes-saucedemo\\automacaotestessaucedemo\\automacaotestessaucedemo\\core\\begin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C9308A-E905-4E7F-AB91-C11B7B7E3562}|AutomacaoTestesSaucedemo\\AutomacaoTestesSaucedemo.csproj|solutionrelative:automacaotestessaucedemo\\core\\begin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,66 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Begin.cs",
-              "DocumentMoniker": "D:\\dev\\automacao-testes-saucedemo\\AutomacaoTestesSaucedemo\\AutomacaoTestesSaucedemo\\Begin.cs",
-              "RelativeDocumentMoniker": "AutomacaoTestesSaucedemo\\Begin.cs",
-              "ToolTip": "D:\\dev\\automacao-testes-saucedemo\\AutomacaoTestesSaucedemo\\AutomacaoTestesSaucedemo\\Begin.cs",
-              "RelativeToolTip": "AutomacaoTestesSaucedemo\\Begin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\dev\\automacao-testes-saucedemo\\AutomacaoTestesSaucedemo\\AutomacaoTestesSaucedemo\\Core\\Begin.cs",
+              "RelativeDocumentMoniker": "AutomacaoTestesSaucedemo\\Core\\Begin.cs",
+              "ToolTip": "D:\\dev\\automacao-testes-saucedemo\\AutomacaoTestesSaucedemo\\AutomacaoTestesSaucedemo\\Core\\Begin.cs",
+              "RelativeToolTip": "AutomacaoTestesSaucedemo\\Core\\Begin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T18:08:46.508Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoginTest.cs",
-              "DocumentMoniker": "D:\\dev\\automacao-testes-saucedemo\\AutomacaoTestesSaucedemo\\AutomacaoTestesSaucedemo\\LoginTest.cs",
-              "RelativeDocumentMoniker": "AutomacaoTestesSaucedemo\\LoginTest.cs",
-              "ToolTip": "D:\\dev\\automacao-testes-saucedemo\\AutomacaoTestesSaucedemo\\AutomacaoTestesSaucedemo\\LoginTest.cs",
-              "RelativeToolTip": "AutomacaoTestesSaucedemo\\LoginTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T18:29:20.793Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CarrinhoTest.cs",
-              "DocumentMoniker": "D:\\dev\\automacao-testes-saucedemo\\AutomacaoTestesSaucedemo\\AutomacaoTestesSaucedemo\\CarrinhoTest.cs",
-              "RelativeDocumentMoniker": "AutomacaoTestesSaucedemo\\CarrinhoTest.cs",
-              "ToolTip": "D:\\dev\\automacao-testes-saucedemo\\AutomacaoTestesSaucedemo\\AutomacaoTestesSaucedemo\\CarrinhoTest.cs",
-              "RelativeToolTip": "AutomacaoTestesSaucedemo\\CarrinhoTest.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA2wB8AAAAMAAAAAAAAAA==",
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "D:\\dev\\automacao-testes-saucedemo\\AutomacaoTestesSaucedemo\\AutomacaoTestesSaucedemo\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "AutomacaoTestesSaucedemo\\Pages\\LoginPage.cs",
+              "ToolTip": "D:\\dev\\automacao-testes-saucedemo\\AutomacaoTestesSaucedemo\\AutomacaoTestesSaucedemo\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "AutomacaoTestesSaucedemo\\Pages\\LoginPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T19:23:25.861Z"
+              "WhenOpened": "2024-10-18T19:12:07.559Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LogoutTest.cs",
-              "DocumentMoniker": "D:\\dev\\automacao-testes-saucedemo\\AutomacaoTestesSaucedemo\\AutomacaoTestesSaucedemo\\LogoutTest.cs",
-              "RelativeDocumentMoniker": "AutomacaoTestesSaucedemo\\LogoutTest.cs",
-              "ToolTip": "D:\\dev\\automacao-testes-saucedemo\\AutomacaoTestesSaucedemo\\AutomacaoTestesSaucedemo\\LogoutTest.cs",
-              "RelativeToolTip": "AutomacaoTestesSaucedemo\\LogoutTest.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA3wCAAAABuAAAAAAAAAA==",
+              "Title": "LoginTest.cs",
+              "DocumentMoniker": "D:\\dev\\automacao-testes-saucedemo\\AutomacaoTestesSaucedemo\\AutomacaoTestesSaucedemo\\Tests\\LoginTest.cs",
+              "RelativeDocumentMoniker": "AutomacaoTestesSaucedemo\\Tests\\LoginTest.cs",
+              "ToolTip": "D:\\dev\\automacao-testes-saucedemo\\AutomacaoTestesSaucedemo\\AutomacaoTestesSaucedemo\\Tests\\LoginTest.cs",
+              "RelativeToolTip": "AutomacaoTestesSaucedemo\\Tests\\LoginTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T20:51:40.245Z"
+              "WhenOpened": "2024-10-17T18:29:20.793Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "OrdenacaoProdutosPage.cs",
+              "DocumentMoniker": "D:\\dev\\automacao-testes-saucedemo\\AutomacaoTestesSaucedemo\\AutomacaoTestesSaucedemo\\Pages\\OrdenacaoProdutosPage.cs",
+              "RelativeDocumentMoniker": "AutomacaoTestesSaucedemo\\Pages\\OrdenacaoProdutosPage.cs",
+              "ToolTip": "D:\\dev\\automacao-testes-saucedemo\\AutomacaoTestesSaucedemo\\AutomacaoTestesSaucedemo\\Pages\\OrdenacaoProdutosPage.cs",
+              "RelativeToolTip": "AutomacaoTestesSaucedemo\\Pages\\OrdenacaoProdutosPage.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowF0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T19:24:04.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "OrdenacaoProdutosTest.cs",
-              "DocumentMoniker": "D:\\dev\\automacao-testes-saucedemo\\AutomacaoTestesSaucedemo\\AutomacaoTestesSaucedemo\\OrdenacaoProdutosTest.cs",
-              "RelativeDocumentMoniker": "AutomacaoTestesSaucedemo\\OrdenacaoProdutosTest.cs",
-              "ToolTip": "D:\\dev\\automacao-testes-saucedemo\\AutomacaoTestesSaucedemo\\AutomacaoTestesSaucedemo\\OrdenacaoProdutosTest.cs",
-              "RelativeToolTip": "AutomacaoTestesSaucedemo\\OrdenacaoProdutosTest.cs",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAcwHwAAAAfAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\dev\\automacao-testes-saucedemo\\AutomacaoTestesSaucedemo\\AutomacaoTestesSaucedemo\\Tests\\OrdenacaoProdutosTest.cs",
+              "RelativeDocumentMoniker": "AutomacaoTestesSaucedemo\\Tests\\OrdenacaoProdutosTest.cs",
+              "ToolTip": "D:\\dev\\automacao-testes-saucedemo\\AutomacaoTestesSaucedemo\\AutomacaoTestesSaucedemo\\Tests\\OrdenacaoProdutosTest.cs",
+              "RelativeToolTip": "AutomacaoTestesSaucedemo\\Tests\\OrdenacaoProdutosTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T21:18:51.89Z",
               "EditorCaption": ""
